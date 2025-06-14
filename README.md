@@ -33,8 +33,8 @@ This project is a **Machine Learning-powered FastAPI web service** that predicts
 2. Go to /backend and run with Docker : 
    ``` docker compose up```
 4. Access the App : 
-- Frontend : ``` http://localhost:8501 ```
-- API Docs : ``` http://localhost:8000/docs ```
+- API Docs : ``` http://localhost:8000 ```
+5. Run frontend : ``` streamlit run frontend.py ```
 6. Docker Hub Images:
 - Backend : ``` debesheesen/house-price-prediction-system-backend ```
 
